@@ -5,7 +5,7 @@ categories: noticias
 last_modified_at:  2022-01-03T10:34:00-03:00
 highlight: true
 highlight_order: 1
-active: true
+active: true 
 image:
   teaser: posts/teaser-defesa-tcc-1600x800.png
   feature: /images/posts/teaser-defesa-tcc-1600x800.png
@@ -23,10 +23,10 @@ Nome|Título|Data|Horário|Link/Sala|Orientador|Banca |Banca
 Cleiton Piccini | Uma análise comparativa entre os protocolos opc-ua e mqtt em uma aplicação de iiot. Opc-ua e mqtt em uma aplicação de iiot | 06/04/2022 | 16:00 | 308/B | Marco Aurélio Spohn | Braulio Adriano Mello | Adriano Sanick Padilha |
 Douglas Rosa | Plataforma de modelagem de apis para aplicações móveis | 5/4/2022 | 14:30 |  https://uffs.webex.com/ meet/samuel.feitosa | Samuel Da Silva Feitosa | Denio Duarte | Raquel Pegoraro |
 Eduardo Ogliari | Propsta de métricas para o garbage collector assíncrono rpgc na remoção de checkpoints não-úteis | 5/4/2022 | 15:00 | 308B | Braulio Adriano Mello | Adriano Sanick Padilha | Marco Aurélio Spohn |
-Emili Willinghoefer | Meta-Analise Da Viabilidade Do Uso De Inteligência Artificial Para Prever Possíveis Ataques Inteligência Artificial Para Prever Possíveis Ataques  | 06/04 | Não definido | Não definido | Fernando Bevilacqua | Julyane Felipette | Denio Duarte |
+Emili Willinghoefer | Meta-Analise Da Viabilidade Do Uso De Inteligência Artificial Para Prever Possíveis Ataques Inteligência Artificial Para Prever Possíveis Ataques  | 06/04 | 17h | meet.google.com/gbn-hjqp-ovq | Fernando Bevilacqua | Julyane Felipette | Denio Duarte |
 Fábio Antonio Ribeiro Dos Santos | Técnicas de visão computacional para leitura de documentos fiscais eletrônicos não-buscáveis (imagens) | Não definido | Não definido | Não definido | Felipe Grando | Adriano Sanick Padilha | Fernando Bevilacqua |
 Jod Fedlet Pierre | Utilização de modelagem de tópicos para identificar os assuntos mais  discutidos sobre o Haiti nas redes sociais.  | 04/04/2022 | 14:00 | 308/B | Denio Duarte | Geomar A. Schreiner | Felipe Grando |
-Jozias Martini Dequi | Trajetória acadêmica alinhada com o mercado de trabalho | 07/04/2022 |  |  | Fernando Bevilacqua | Andressa Sebben | Raquel Aparecida Pegoraro |
+Jozias Martini Dequi | Trajetória acadêmica alinhada com o mercado de trabalho | 07/04/2022 | 19:00  |  https://meet.google.com/wut-kpyf-awz | Fernando Bevilacqua | Andressa Sebben | Raquel Aparecida Pegoraro |
 Lucas Sergio Mahle | Abordagem para modelagem de tópicos utilizando tf-idf | 08/04/2022 | 16:00 | 308B | Denio Duarte | Andressa Sebben | Geomar André Schreiner |
 Luis Henrique Wasem De Oliveira | Análise de desempenho  a nivel de aplicação utilizando o protocolo MQTT  | 06/04/2022 | 19:00 | https://meet.google.com/fmg-hrfh-nmt?hs=224 | Marco Aurélio Spohn |  Adriano Sanick Padilha | Bráulio Adriano de Mello |
 Marcelo Elias Knob | Avaliação da funcionalidade de assinaturas compartilhadas no mqtt v5.0 | 05/04/2022 | 16:00 | 308/B | Marco Aurélio Spohn | Adriano Sanick Padilha | Braulio Adriano De Mello
