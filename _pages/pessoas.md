@@ -34,15 +34,31 @@ permalink: /pessoas/
     <div class="row-70 mt-5"></div>
     <div class="row">
         <div class="col-12">
-            <h2>Técnico-Administrativos em Educação</h2>
+            <h2>In Memorian</h2>
+            <hr />
+        </div>
+    </div>
+   
+    <div class="row">
+     {% assign professors = site.data.people | where:"position","memorian" | sort:"name" %}
+      {% assign professors = professors | where:"inactive",nil | sort:"name" %}
+      {% for person in professors %}
+        {% include person-grid.html %}
+      {% endfor %}
+    </div>
+  <div class="row-70 mt-5"></div>
+    <div class="row">
+        <div class="col-12">
+            <h2>Ex-Docentes</h2>
             <hr />
         </div>
     </div>
     <div class="row">
-      {% assign taes = site.data.people | where:"position","tae" | sort:"name" %}
-      {% for person in taes  %}
+     {% assign professors = site.data.people | where:"position","Ex-Docente" | sort:"name" %}
+      {% assign professors = professors | where:"inactive",nil | sort:"name" %}
+      {% for person in professors %}
         {% include person-grid.html %}
       {% endfor %}
     </div>
-  </div>
-</section>
+    
+<!-- </section> -->
